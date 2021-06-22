@@ -1,0 +1,93 @@
+.logo{
+    position: absolute;
+    left: -10%;
+    top: -5%;
+}
+body{
+    margin: 15px;
+    background-image: url(Screenshot\ \(48\).png); 
+}
+h1{
+    position: absolute;
+    right:38%;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    display: inline;
+    text-decoration: none;
+}
+.nav{
+    word-spacing: 10px;
+    position: absolute;
+    top: 15pt;
+    right: 100pt;
+    margin-right: 15px;
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16pt;
+    color: rgb(0, 0, 0);
+}
+a:hover
+{
+    color: white;
+}
+.dg-container{
+    position: absolute;
+    height: 30pc;
+    width:80.5pc;
+    top: 20%;
+    border-radius: 40px;
+background: rgba(255, 255, 255, 0.438);
+}
+.dg-container1{
+    position: absolute;
+    height: 30pc;
+    width:80.5pc;
+    top: 100%;
+    border-radius: 40px;
+    background: rgba(255, 255, 255, 0.438);
+
+}
+.dg-container2{
+    position: absolute;
+    height: 30pc;
+    width:80.5pc;
+    top: 185%;
+    border-radius: 40px;
+    background: rgba(255, 255, 255, 0.438);
+}
+p {
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    width: 30pc;
+    height: 300px;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img {
+    margin: 20px;
+    border-radius: 20px;
+    position: absolute;
+    height: 18pc;
+
+}
+.video{
+    border: solid white 10px;
+    border-radius: 20px;
+    margin: 40px;
+    background: #000;
+    position: absolute;
+    height: 19pc;
+    width: max-content;
+}
+.img1{
+    background: white;
+    border-radius: 20px;
+    position: absolute;
+    left: 40.5%;
+    height: 18pc;
+}
+
